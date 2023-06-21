@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=<LypsorTek>&show_icons=true&lang=FR)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
